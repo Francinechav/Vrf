@@ -16,7 +16,7 @@ const publications = [
     title: "AC Minor Vs State (Civil Cause No 162 of 2023)",
     description:
       "A landmark legal case exploring reproductive justice, healthcare rights, and protection of vulnerable individuals in Malawi.",
-    image: "/vr.jpg",
+    image: "/re_50.jpg",
     date: "2025",
     pdf: "/documents/AC-Pregnancy-termination-1.pdf",
   },

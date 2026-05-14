@@ -80,9 +80,9 @@ export const metadata: Metadata = {
   },
 
   icons: {
-    icon: "/vrflogo.png",
-    shortcut: "/vrflogo.png",
-    apple: "/vrflogo.png",
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
   },
 };
 

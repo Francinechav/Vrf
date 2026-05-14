@@ -7,7 +7,7 @@ export default function Hero4() {
       {/* Background */}
       <div
         className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: "url('/re.jpg')" }}
+        style={{ backgroundImage: "url('/re_50.jpg')" }}
       />
 
       {/* Overlay */}
